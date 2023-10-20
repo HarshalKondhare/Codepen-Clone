@@ -1,4 +1,4 @@
-# codepen-clone
+# CODEPEN CLONE
 
 ## **Website Link : https://harshalkondhare.github.io/codepen-clone/**
 
